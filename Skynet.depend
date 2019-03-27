@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553657135 source:d:\codeblocks\skynet\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
